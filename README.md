@@ -53,7 +53,7 @@ Hence this small initiative is an effective way to manage the crisis situation
 
 -Open cmd/terminal
 -Navigate to your workspace
--Then type in: ```git clone https://github.com/SAMYAK99/TechnoHolics.git```
+-Then type in: ```git clone https://github.com/SAMYAK99/TrackaBed```
 -Import the Project in Android Studio and start coding!
 
 ## To Setup the project properly add the following to local.properties under Gradle Scripts
