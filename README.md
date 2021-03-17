@@ -21,6 +21,7 @@ Hence this small initiative is an effective way to manage the crisis situation
 -	Gelocation
 -	Flutter Provider
 
+
 ## Download the app from [here](https://drive.google.com/file/d/1enrScf2CDmYGD81dje_Ad9NaIKi71cdi/view?usp=sharing).
 **steps-** Open the link->click download->click drive->choose your account->click app installer->open app
 
@@ -31,7 +32,8 @@ Hence this small initiative is an effective way to manage the crisis situation
 
 ## Permissions
 
-* Location/GPS
+* Location
+* GPS
 
 ## Requirements
 * Android version 5.0 and above
