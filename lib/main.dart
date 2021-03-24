@@ -25,6 +25,8 @@ class MyApp extends StatelessWidget {
           return BitmapDescriptor.fromAssetImage(
               configuration, 'assets/images/hbed.png');
         }),
+        
+        // Adding  demo 
         ProxyProvider2<Position, BitmapDescriptor, Future<List<Place>>>(
           update: (context, position, icon, places) {
             return (position != null)
